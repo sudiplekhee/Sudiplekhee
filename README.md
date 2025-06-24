@@ -59,7 +59,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
   </a> 
   <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/canva-1.svg" alt="canva" width="40" height="40"/>
+    <img src="[https://cdn.worldvectorlogo.com/logos/canva-1.svg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEVvsHtm2-WOrnjXwFqRj0DnC3Gx13HLmP-A&s)" alt="canva" width="40" height="40"/>
   </a>
 </p>
 
